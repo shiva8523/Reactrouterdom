@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreactrouterdom=self.webpackChunkreactrouterdom||[]).push([[842],{842:function(e,r,n){n.r(r);n(791);var a=n(871),s=n(184);r.default=function(){var e=(0,a.UO)();return console.log(e),(0,s.jsxs)("div",{children:[(0,s.jsx)("h1",{children:"Task Creation"}),(0,s.jsxs)("h1",{children:["Task Creation of ",e.studentName,", age :",e.age,",  lives in ",e.Location]})]})}}}]);
+//# sourceMappingURL=842.3df7c0a9.chunk.js.map

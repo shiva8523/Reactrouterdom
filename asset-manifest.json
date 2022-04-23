@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reactrouterdom/static/css/main.95522c8f.css",
+    "main.js": "/Reactrouterdom/static/js/main.cf1ff951.js",
+    "static/js/260.8c6c8c3a.chunk.js": "/Reactrouterdom/static/js/260.8c6c8c3a.chunk.js",
+    "static/js/842.3df7c0a9.chunk.js": "/Reactrouterdom/static/js/842.3df7c0a9.chunk.js",
+    "static/js/787.a7dbdedd.chunk.js": "/Reactrouterdom/static/js/787.a7dbdedd.chunk.js",
+    "index.html": "/Reactrouterdom/index.html",
+    "main.95522c8f.css.map": "/Reactrouterdom/static/css/main.95522c8f.css.map",
+    "main.cf1ff951.js.map": "/Reactrouterdom/static/js/main.cf1ff951.js.map",
+    "260.8c6c8c3a.chunk.js.map": "/Reactrouterdom/static/js/260.8c6c8c3a.chunk.js.map",
+    "842.3df7c0a9.chunk.js.map": "/Reactrouterdom/static/js/842.3df7c0a9.chunk.js.map",
+    "787.a7dbdedd.chunk.js.map": "/Reactrouterdom/static/js/787.a7dbdedd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95522c8f.css",
+    "static/js/main.cf1ff951.js"
+  ]
+}
